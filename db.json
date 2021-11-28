@@ -8,5 +8,11 @@
         "age": 17,
         "gender": false
     }],
-    "products": []
+    "products": [{ 
+        "product": "apple",
+        "price": 400     
+    }, { 
+        "product": "orange",
+        "price": 300     
+    }]
 }
