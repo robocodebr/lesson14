@@ -8,5 +8,8 @@
         "age": 12,
         "gender": true
     }],
-    "products":[]
+    "products":[{
+        "product": "pantera",
+        "price": "999.999$"
+    }]
 }
