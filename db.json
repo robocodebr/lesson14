@@ -3,7 +3,17 @@
         "user": "Jon",
         "age": 17,
         "gender": true
+    }, {
+        "user": "Kitty",
+        "age":17,
+        "gender": false
+    }],
+    "products":[{
+        "product": "apple",
+        "price": 12.5
+    },
+    {
+        "product": "orandge",
+        "price": 15
     }]
-}, {
-    
 }
