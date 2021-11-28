@@ -1,5 +1,26 @@
 
 {
+    "users": [
+        {
+            "user": "Jon",
+            "age": 17,
+            "gender": true
+        },
+        {
+            "user": "Jon",
+            "age": 17,
+            "gender": false
+        }
+    ],
+    "products": [
+        {
+            "products": "apple",
+            "price": 12.5
+        }
+    ]
+}
+,
+{
     "users":[{
         "user": "Jon",
         "age": 17,
@@ -45,5 +66,3 @@
     {
         "product": "banana"
     }]
-    
-}
