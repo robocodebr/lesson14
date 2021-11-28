@@ -34,14 +34,16 @@
         "product": "apple",
         "price": 12.5
     },
-    {
+        {
 
         "product": "orandge",
         "price": 15,
+
         "product": "orange",
-        "price": 15
+        "price": 15,
     },
     {
         "product": "banana"
     }]
+    
 }
