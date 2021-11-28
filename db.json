@@ -1,5 +1,21 @@
 
 {
+    "user": [{
+        "user": "Jon",
+        "age": 17,
+        "gander": true
+    }],
+    "products": [{
+        "product": "apple",
+        "price": 12.5
+    },
+    {
+        "product": "orange",
+        "price": 15
+    }]
+}
+,
+{
     "users": [
         {
             "user": "Jon",
