@@ -1,0 +1,12 @@
+{
+    "users": [{
+        "user": "Jon",
+        "age": 17,
+        "gender": true
+    }, {
+        "user": "Jon",
+        "age": 17,
+        "gender": false
+    }],
+    "products": []
+}
