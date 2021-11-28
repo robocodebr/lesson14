@@ -16,5 +16,17 @@
             "product": "apple",
             "price": 12.5
         }
+    ],
+    "products1": [
+        {
+            "product": "Banana",
+            "price": 15.5
+        }
+    ],
+    "products2": [
+        {
+            "product": "orange",
+            "price": 9.5
+        }
     ]
 }
