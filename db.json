@@ -1,0 +1,24 @@
+{
+    "users": [
+        {
+            "user": "Jon",
+            "age": 17,
+            "gender": true
+        },
+        {
+            "user": "Jon",
+            "age": 17,
+            "gender": false
+        }
+    ],
+    "products": [
+        {
+            "produst": "apple",
+            "prise": 12.5
+        },
+        {
+            "produst": "orange",
+            "prise": 12.5
+        }
+    ]
+}
