@@ -11,5 +11,9 @@
     {
         "product": "orange",
         "price": 15
+    },
+    {
+        "product": "orange",
+        "price": 15
     }]
 }
