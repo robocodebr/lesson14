@@ -18,7 +18,11 @@
         },
         {
             "produst": "orange",
-            "prise": 12.5
+            "prise": 15
+        },
+        {
+            "produst": "banana",
+            "prise": 10
         }
     ]
 }
