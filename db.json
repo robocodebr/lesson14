@@ -14,7 +14,6 @@
         "product": "orange",
         "price": 15
     }],
-
     "users": [
         {
             "user": "Jon",
@@ -22,6 +21,7 @@
             "gender": true
         },
         {
+            "user": "Jon",
             "user": "Kitty",
             "user": "Jon",
 
@@ -31,6 +31,15 @@
     ],
     "products": [
         {
+            "produst": "apple",
+            "prise": 12.5
+        },
+        {
+            "produst": "orange",
+            "prise": 12.5
+        }
+    ]
+}
             "product": "apple",
             "price": 12.5
         }
