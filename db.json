@@ -1,5 +1,19 @@
 
 {
+    "users":[{
+        "user": "Jon",
+        "age": 17,
+        "gender": true
+    },{
+        "user": "John",
+        "age": 12,
+        "gender": true
+    }],
+    "products":[{
+        "product": "pantera",
+        "price": "999.999$"
+
+    }],
     "users": [{
         "user": "Jon",
         "age": 17,
@@ -20,8 +34,11 @@
         "product": "apple",
         "price": 12.5
     },
-    {
-     
+        {
+
+        "product": "orandge",
+        "price": 15,
+
         "product": "orange",
         "price": 15,
     },
