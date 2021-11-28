@@ -1,4 +1,5 @@
 
+
 {
     "user": [{
         "user": "Jon",
@@ -12,10 +13,8 @@
     {
         "product": "orange",
         "price": 15
-    }]
-}
-,
-{
+    }],
+
     "users": [
         {
             "user": "Jon",
@@ -23,13 +22,20 @@
             "gender": true
         },
         {
+            "user": "Kitty",
             "user": "Jon",
+
             "age": 17,
             "gender": false
         }
     ],
     "products": [
         {
+            "product": "apple",
+            "price": 12.5
+        }
+    ]
+}
             "products": "apple",
             "price": 12.5
         }
